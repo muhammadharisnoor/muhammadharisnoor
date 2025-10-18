@@ -1,3 +1,5 @@
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/002/749/178/large_2x/website-banner-mixed-media-iot-internet-of-things-concepts-ict-information-and-telecommunication-technology-photo.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Haris Noor</h1>
 <h3 align="center">A curious IT student who loves coding and design.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo1ejkwdGY1cjlnMXZvODE0ejMycXdna3R6emhlMGYxOW9oNDNqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
